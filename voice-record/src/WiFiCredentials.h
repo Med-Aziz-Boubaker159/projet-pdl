@@ -1,0 +1,2 @@
+#define SSID "TT_F030"
+#define PASSWORD "08072000"
